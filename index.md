@@ -203,7 +203,7 @@ Modify the block below if there are any special requirements.
   {% endif %}
   In in order to continue working after the course, they should have a few specific software packages installed (listed <a href="#setup">below</a>). 
   <br>
-  Note for members of Newcastle University: Software should be installed from Software Center on Newcastle University managed Windows PCs and laptops. In case of difficulty please log a ticket to it.servicedesk@ncl.ac.uk and let us know at the contact details below if you still need help.
+  <italic>Note for members of Newcastle University</italic>: On our Windows laptops/PCs, software should be installed from Software Center. In case of difficulty please log a ticket to it.servicedesk@ncl.ac.uk and let us know at the contact details below if you still need help.
 </p>
 
 {% comment %}
@@ -226,6 +226,7 @@ Materials will be provided in advance of the workshop and large-print handouts a
 {% else %} We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
 {% endif %}
 </p>
+
 
 <p>
   <a href="https://glosario.carpentries.org/">Glosario</a> is a multilingual glossary 
