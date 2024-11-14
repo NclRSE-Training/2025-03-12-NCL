@@ -203,7 +203,7 @@ Modify the block below if there are any special requirements.
   {% endif %}
   In in order to continue working after the course, they should have a few specific software packages installed (listed <a href="#setup">below</a>). 
   <br>
-  <italic>Note for members of Newcastle University</italic>: On our Windows laptops/PCs, software should be installed from Software Center. In case of difficulty please log a ticket to it.servicedesk@ncl.ac.uk and let us know at the contact details below if you still need help.
+  <i>Note for members of Newcastle University</i>: On our Windows laptops/PCs, software should be installed from Software Center. In case of difficulty please log a ticket to it.servicedesk@ncl.ac.uk and let us know at the contact details below if you still need help.
 </p>
 
 {% comment %}
